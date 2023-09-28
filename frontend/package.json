@@ -4,6 +4,11 @@
   "description": "template for mdb-react-ui-kit",
   "private": true,
   "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.11",
+    "dotenv": "^16.3.1",
     "mdb-react-ui-kit": "6.1.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
